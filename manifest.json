@@ -1,0 +1,7 @@
+{
+  "name": "Codelabor8 Release",
+  "short_name": "Codelabor8 Release",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
